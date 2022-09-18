@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dh1Sr+jBG2F85ded+n0cM370buQXzlomY/4m4v9gxlvX5gdtltFHcDF1P+ulP/TngdI9nE8RflPeOhr8dH/CWw==",
+  "success": true,
+  "projectFilePath": "/Users/takashiba/Shibachan1015/fsharp/Conversion/Conversion.fsproj",
+  "expectedPackageFiles": [
+    "/Users/takashiba/.nuget/packages/fsharp.core/6.0.5/fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
